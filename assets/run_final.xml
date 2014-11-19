@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a03cc0e424961b67adf7087f1f2a0059:3e7fadeef505600af8fc3a898d1ab845:57fdfe396f035f44e304dce058baa872$ -->
+<TextureAtlas imagePath="run_final.png">
+    <SubTexture name="ascent0000" x="2" y="2" width="40" height="57"/>
+    <SubTexture name="ascent0001" x="44" y="2" width="40" height="57"/>
+    <SubTexture name="ascent0002" x="86" y="2" width="40" height="57"/>
+    <SubTexture name="ascent0003" x="128" y="2" width="40" height="57"/>
+    <SubTexture name="ascent0004" x="170" y="2" width="40" height="57"/>
+    <SubTexture name="descent0000" x="44" y="2" width="40" height="57"/>
+    <SubTexture name="descent0001" x="128" y="2" width="40" height="57"/>
+    <SubTexture name="descent0002" x="128" y="2" width="40" height="57"/>
+    <SubTexture name="descent0003" x="44" y="2" width="40" height="57"/>
+    <SubTexture name="descent0004" x="86" y="2" width="40" height="57"/>
+    <SubTexture name="duck0000" x="212" y="2" width="40" height="57"/>
+    <SubTexture name="duck0001" x="128" y="2" width="40" height="57"/>
+    <SubTexture name="duck0002" x="254" y="2" width="40" height="57"/>
+    <SubTexture name="duck0003" x="296" y="2" width="40" height="57"/>
+    <SubTexture name="duck0004" x="968" y="2" width="40" height="56" frameX="0" frameY="0" frameWidth="40" frameHeight="57"/>
+    <SubTexture name="fly0000" x="338" y="2" width="40" height="57"/>
+    <SubTexture name="fly0001" x="380" y="2" width="40" height="57"/>
+    <SubTexture name="fly0002" x="422" y="2" width="40" height="57"/>
+    <SubTexture name="fly0003" x="44" y="2" width="40" height="57"/>
+    <SubTexture name="fly0004" x="464" y="2" width="40" height="57"/>
+    <SubTexture name="hurt0000" x="506" y="2" width="40" height="57"/>
+    <SubTexture name="hurt0001" x="86" y="2" width="40" height="57"/>
+    <SubTexture name="hurt0002" x="212" y="2" width="40" height="57"/>
+    <SubTexture name="hurt0003" x="128" y="2" width="40" height="57"/>
+    <SubTexture name="hurt0004" x="254" y="2" width="40" height="57"/>
+    <SubTexture name="idle0000" x="548" y="2" width="40" height="57"/>
+    <SubTexture name="idle0001" x="548" y="2" width="40" height="57"/>
+    <SubTexture name="idle0002" x="296" y="2" width="40" height="57"/>
+    <SubTexture name="idle0003" x="590" y="2" width="40" height="57"/>
+    <SubTexture name="idle0004" x="2" y="2" width="40" height="57"/>
+    <SubTexture name="jump0000" x="968" y="2" width="40" height="56" frameX="0" frameY="0" frameWidth="40" frameHeight="57"/>
+    <SubTexture name="jump0001" x="464" y="2" width="40" height="57"/>
+    <SubTexture name="jump0002" x="44" y="2" width="40" height="57"/>
+    <SubTexture name="jump0003" x="338" y="2" width="40" height="57"/>
+    <SubTexture name="jump0004" x="170" y="2" width="40" height="57"/>
+    <SubTexture name="reverse0000" x="632" y="2" width="40" height="57"/>
+    <SubTexture name="reverse0001" x="674" y="2" width="40" height="57"/>
+    <SubTexture name="reverse0002" x="716" y="2" width="40" height="57"/>
+    <SubTexture name="reverse0003" x="758" y="2" width="40" height="57"/>
+    <SubTexture name="reverse0004" x="800" y="2" width="40" height="57"/>
+    <SubTexture name="walk0000" x="842" y="2" width="40" height="57"/>
+    <SubTexture name="walk0001" x="422" y="2" width="40" height="57"/>
+    <SubTexture name="walk0002" x="884" y="2" width="40" height="57"/>
+    <SubTexture name="walk0003" x="926" y="2" width="40" height="57"/>
+    <SubTexture name="walk0004" x="380" y="2" width="40" height="57"/>
+</TextureAtlas>
