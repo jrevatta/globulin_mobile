@@ -1,14 +1,14 @@
 Globulin Mobile 
 
 
+
+Es un juego con licencia open source para probar y explorar la versatilidad del framework citrus engine para Action Script. El juego de plataforma tiene como misi√≥n obtener una recompensa con la que se supera el nivel. Se debe eliminar a las bacterias existentes en el juego.
+
+El juego est√° implementado utilizando la versi√≥n 3.1.10 del framework. Con Flash Builder CC. Action Script 3.0.
+
+El juego se redefinir√° conforme se adapte el gameplay y el gamedesign. Por ahora solo incluye demostraciones de como interactuar con el framework.
+
+Los recursos gr√°ficos son contribuciones de Omar Alfaro.
+
 18.11.14.
-Es un juego con licencia open source para probar y explorar la versatilidad del framework citrus engine para Action Script. El juego es pequeÒo juego de plataforma que establece como misiÛn obtener una moneda con la que se gana el juego. Se debe eliminar a las bacterias existentes en el juego.
-
-El juego est· implementado utilizando la versiÛn 3.1.10 del framework. Con Flash Builder CC. Action Script 3.0.
-
-El juego se redefinir· conforme se adapte el gameplay y el gamedesign. Por ahora solo incluye demostraciones de como interactuar con el framework.
-
-Los recursos gr·ficos en la mayorÌa de casos son contribuciones de Omar Alfaro.
-
-
-
+12.06.15
